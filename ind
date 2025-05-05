@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rohan G Pattar - Professional Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      color: #333333;
+    }
+    header {
+      background-color: #f4f4f4;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2, h3 {
+      color: #005a9c;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 2rem;
+    }
+    .section-title {
+      border-bottom: 2px solid #ccc;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #f4f4f4;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rohan G Pattar</h1>
+    <h2>MBA Student | Agri-Business & Marketing Enthusiast</h2>
+  </header>
+
+  <section>
+    <h2 class="section-title">Professional Profile</h2>
+    <p>Dedicated and dynamic young professional currently pursuing an MBA with a foundation in Agriculture (B.Sc.(HONS)). ...</p>
+  </section>
+
+  <section>
+    <h2 class="section-title">Key Skills</h2>
+    <ul>
+      <li><strong>Communication Skills:</strong> Effectively communicated across multi-functional teams...</li>
+      <li><strong>Leadership:</strong> Served as captain of school and sports teams...</li>
+      <li><strong>Research & Surveying:</strong> Executed field surveys and data collection projects...</li>
+      <li><strong>IT Skills:</strong> Proficient in Microsoft Excel, Word, PowerPoint...</li>
+      <li><strong>Languages:</strong> Fluent in Kannada, Hindi, and English...</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Education</h2>
+    <ul>
+      <li>MBA – PES University (SGPA: 8.0)</li>
+      <li>B.Sc. Agriculture – UAS Dharwad (CGPA: 7.81)</li>
+      <li>Pre-University – Alva's PU College (92%)</li>
+      <li>High School – Daffodils School (CGPA: 9.2)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Experience</h2>
+    <p><strong>Operations Intern – Nano Aqua and Enviro Solutions</strong></p>
+    <ul>
+      <li>Managed daily operations and inventory of 200+ components...</li>
+      <li>Resolved 15+ maintenance requests daily...</li>
+      <li>Collaborated with technical teams to streamline workflows...</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Workshops & Programs Attended</h2>
+    <ul>
+      <li>E-Step Start-up Boot-Camp</li>
+      <li>Entrepreneurship Development Workshop</li>
+      <li>Creative Design Paper Workshop</li>
+      <li>Fin-a-thon '25</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: 8867785555 | rohan.pattar@example.com</p>
+  </footer>
+</body>
+</html>
